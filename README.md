@@ -9,12 +9,14 @@ The objective of this project is to create a unified report that stakeholders fr
 <b>Skills and Knowledge Acquired</b>
 <h2>Throughout this project, I gained expertise in the following areas:</h2>
 
-<b>Power Query (Basic and Advanced Operations)</b>
-<b>Simple and advanced DAX formulas</b>
-<b>Data modelling with ten or more tables</b>
-<b>Selecting the appropriate visuals and formatting</b>
-<b>Guidelines for designing dashboards</b>
-<b>Using bookmarks</b>
-<b>Deploying in Power BI service</b>
-<b>Implementing stakeholder feedback</b>
-<b>Metrics for sales, marketing, finances, and supply chain</b>
+<ul>
+  <li>Power Query (Basic and Advanced Operations)</li>
+  <li>Simple and advanced DAX formulas</li>
+  <li>Data modelling with ten or more tables</li>
+  <li>Selecting the appropriate visuals and formatting</li>
+  <li>Guidelines for designing dashboards</li>
+  <li>Using bookmarks</li>
+  <li>Deploying in Power BI service</li>
+  <li>Implementing stakeholder feedback</li>
+  <li>Metrics for sales, marketing, finances, and supply chain</li>
+</ul>
